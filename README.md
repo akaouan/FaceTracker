@@ -1,3 +1,3 @@
 # FaceTracker
 
-setup opencv library first.
+install opencv library first.
